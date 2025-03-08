@@ -1,0 +1,131 @@
+@charset "utf-8";  
+
+body {
+  font-family: Helvetica;
+font-size: 15px;
+font-weight: 600;
+background-color:  #202020;
+color: #EEEEEE;
+text-align: center;
+margin: 0px 10px;
+}
+
+.header-logo {
+  width: 62%;
+height: auto;
+  position: relative;
+  top: 10px;
+}
+
+h1 {
+  font-size: 34px;
+margin-top: -5px;
+}
+
+.sp-text {
+  font-size: 100px;
+  color: #FF1010;
+}
+
+.block-text {
+  background-color: #4B4B4B;
+  color: #000000;
+  display: inline-block;
+  padding: 1px 7px;
+}
+
+.block-text2 {
+  background-color: #CCCCCC;
+  color: #000000;
+  display: inline-block;
+  padding: 1px 7px;
+  font-size: 35px;
+}
+
+.red-block {
+  background-color: #E61F1F;
+  color: #000000;
+  display: inline-block;
+  padding: 1px 1px;
+  font-size: 25px;
+}
+
+.big-red-block {
+  background-color: #E61F1F;
+  color: #000000;
+  display: inline-block;
+  padding: 1px 1px;
+  font-size: 45px;
+}
+
+.gray-block {
+  background-color: #999999;
+  color: #000000;
+  display: inline-block;
+  padding: 1px 1px;
+  font-size: 25px;
+}
+
+
+.space {
+   margin-left: 148px;
+}
+
+.big-text {
+  font-size: 30px;
+  color: #FF1010;
+}
+
+.red-text {
+  color: #F50D0D;
+  font-size: 40px;
+  position: relative;
+  bottom: 10px;
+  
+}
+
+header {
+  background: #000000; 
+  padding: 30px;
+}
+
+section {
+  margin-top: 10px;
+  background: #000000;
+  padding: 1px;
+}
+
+h2 {
+  padding-bottom: 0px;
+}
+
+p {
+  letter-spacing: 5px;
+  margin-top: 80px;
+}
+
+.special-paragraph {
+  margin-top: 40px;
+}
+
+a {
+  text-decoration: none; /* 下線を消す */
+  color: inherit; 
+}
+
+.footer-logo {
+  width: 35px;
+  height: 35px;
+  position: relative;
+  top: 10px;
+  left: -3px;
+}
+
+footer {
+  color: whitesmoke;
+}
+
+.notice {
+  font-size: 15px;
+  margin: 5px 10px;
+}
